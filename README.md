@@ -17,19 +17,6 @@
 ██║░░░░░██████╔╝░░░██║░░░╚█████╔╝╚█████╔╝
 ╚═╝░░░░░╚═════╝░░░░╚═╝░░░░╚════╝░░╚════╝░
 
-
-
-
-
-                      
-░█████╗░██████╗░██████╗░██████╗░░█████╗░░█████╗░██╗░░██╗
-██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗██║░░██║
-███████║██████╔╝██████╔╝██████╔╝██║░░██║██║░░╚═╝███████║
-██╔══██║██╔═══╝░██╔═══╝░██╔══██╗██║░░██║██║░░██╗██╔══██║
-██║░░██║██║░░░░░██║░░░░░██║░░██║╚█████╔╝╚█████╔╝██║░░██║
-╚═╝░░╚═╝╚═╝░░░░░╚═╝░░░░░╚═╝░░╚═╝░╚════╝░░╚════╝░╚═╝░░╚═╝
-
-
 # Summary
 This code uses the OpenAI API to generate email and SMS message templates based on a given topic and language. It provides functions to generate emails and SMS messages, save the results to a file, and print the generated templates. The code makes use of the OpenAI Completion API to generate the text.
 
